@@ -15,7 +15,7 @@ h1 {
     margin: 0 auto;
     font-family: 'Roboto', sans-serif;
     padding: 10px;
-    color: rgb(102, 101, 101);
+    color: rgb(48, 38, 38);
 }
 
 .koostisosad-table {
@@ -30,26 +30,27 @@ h2 {
     padding-top: 20px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    color: rgb(102, 101, 101);
+    color: rgb(48, 38, 38);
 }
 
 h3 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    color: rgb(102, 101, 101);
+    color: rgb(48, 38, 38);
 }
 
 .valmistamine {
     font-family: 'Roboto', sans-serif;
     width: 60%;
     margin: 0 auto;
-    color: rgb(102, 101, 101);
+    color: rgb(48, 38, 38);
 }
 
 .valmistamine ol {
     margin: 0 auto;
     width: 75%;
     padding-bottom: 20px;
+    
 }
 
 .pilt {
@@ -72,5 +73,5 @@ footer {
     padding-top: 10px;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    color: rgb(80, 80, 80);
+    color: rgb(48, 38, 38);
 }

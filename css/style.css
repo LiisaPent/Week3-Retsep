@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+body {
+    background-color:antiquewhite ;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color:rgb(218, 66, 116) ;
+}
+
+.koostisosad {
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    color: rgb(102, 101, 101);
+}
+
+.koostisosad-table {
+    margin: 0 auto
+}
+
+table {
+    border: 1px solid gray;
+}
+
+h2 {
+    padding-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: rgb(102, 101, 101);
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(102, 101, 101);
+}
+
+.valmistamine {
+    font-family: 'Roboto', sans-serif;
+    width: 60%;
+    margin: 0 auto;
+    color: rgb(102, 101, 101);
+}
+
+.valmistamine ol {
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 20px;
+}
+
+.pilt {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 300px;
+   padding-bottom: 30px;
+}
+
+.link {
+    text-align: center;
+}
+
+a {
+    color: palevioletred;
+}
+
+footer {
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(80, 80, 80);
+}
